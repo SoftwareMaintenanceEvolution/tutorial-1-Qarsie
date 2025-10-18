@@ -3,7 +3,7 @@
 Hi! I'm Eisraq Rejab Bin Hassan, a student in the Framework-Based Software Design and Development course. 
 I expect to learn practical software maintenance skills and version control collaboration.
 
-![My Image](me.jpg) 
+![My Image](me.png) 
 
 ## GitHub Profile
 
